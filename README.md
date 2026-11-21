@@ -94,12 +94,5 @@ alias ast := ast-file
 ast-file:
 	odin run . -- ast {{test_file_dir}}/{{test_file_name}}
 ```
-# TODO:
-- Local
-- Typechecking. 
-- Prettier errors. 
-- Fixing tables parsing.
-- Fixing Anon Function Declarations.
-
 
 
